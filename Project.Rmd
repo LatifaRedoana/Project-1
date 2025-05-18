@@ -1,9 +1,7 @@
 ---
 title: "Discussing different likelihoods and link functions, and their influence on
   the interpretation of results (generalized linear multilevel models) (II)"
-author: "Latifa Redoana, Sharmin Islam"
-date: "2024-03-22"
-output: html_document
+author: "Latifa Redoana"
 ---
 ## Overview
 Multilevel Generalized Linear Models (MGLMs) extend the capabilities of Multilevel Linear Models (MLMs). While MLMs are specifically tailored for continuous outcomes, MGLMs are adept at handling non-continuous variables such as binary, count, or categorical outcomes.
